@@ -8,5 +8,13 @@ The Dataset is divided into train and test CSV files with the labels Positive, N
 
 
 <p> Test Dataset ratio </p>
-<img src="https://drive.google.com/uc?id=1J4ooIIV4Mob7BeKLoZNaiBbfsFNzcrfF" alt="Train dataset ratio" />
+<img src="https://drive.google.com/uc?id=1J4ooIIV4Mob7BeKLoZNaiBbfsFNzcrfF" alt="Test dataset ratio" />
+
+
+
+<p> NV Lime </p>
+<img src="https://drive.google.com/uc?id=1emIsDBsoDlKhjhCt6OagqCvIPXHqgjWq" alt="NV Lime" />
+
+<p> RNN Lime </p>
+<img src="https://drive.google.com/uc?id=1XKF5ZJKmmIdxcIyn2-iEeCSJPc5ypYZW" alt="RNN Lime" />
 
