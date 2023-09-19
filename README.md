@@ -1,7 +1,7 @@
-# Sentiment_analysis_lime-nv-rnn-
-Here, I use Naive Bias, RNN for sentiment analysis with explainable ai LIME.
+# Sentiment_analysis_lime-nv-rnn
+<h1 >Here, I use Naive Bias, RNN for sentiment analysis with explainable ai LIME. </h1>
 
 The Dataset is divided into train and test CSV files with the labels Positive, Negative and Neutral. 
 
-<p align="left"> <img src="https://drive.google.com/file/d/1J4ooIIV4Mob7BeKLoZNaiBbfsFNzcrfF/view?usp=sharing" alt="Train dataset ratio" /> Train dataset ratio </p>
+<img src="https://drive.google.com/file/d/1J4ooIIV4Mob7BeKLoZNaiBbfsFNzcrfF/view?usp=sharing" alt="Train dataset ratio" />
 
